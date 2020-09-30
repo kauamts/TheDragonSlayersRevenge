@@ -12,8 +12,4 @@ This game was made in less then one work week and is a testment to how far the l
 - GAURAV SHARMA
 - JEFF SHAW
 - KAUAM TRIPOLONE SILVA
-<<<<<<< HEAD
 - TIM WIRCH
-=======
-- TIM WIRCH
->>>>>>> master
