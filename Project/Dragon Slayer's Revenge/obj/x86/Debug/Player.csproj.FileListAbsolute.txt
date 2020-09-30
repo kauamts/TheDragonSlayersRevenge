@@ -1,0 +1,56 @@
+C:\Users\gd18jeffery\AppData\Local\Temporary Projects\Player\bin\Debug\Player.exe
+C:\Users\gd18jeffery\AppData\Local\Temporary Projects\Player\bin\Debug\Player.pdb
+C:\Users\gd18jeffery\AppData\Local\Temporary Projects\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gd18jeffery\AppData\Local\Temporary Projects\Player\obj\x86\Debug\Player.exe
+C:\Users\gd18jeffery\AppData\Local\Temporary Projects\Player\obj\x86\Debug\Player.pdb
+C:\Users\gd18jeffery\documents\visual studio 2010\Projects\Player\Player\obj\x86\Debug\Player.exe
+C:\Users\gd18jeffery\documents\visual studio 2010\Projects\Player\Player\obj\x86\Debug\Player.pdb
+C:\Users\gd18jeffery\documents\visual studio 2010\Projects\Player\Player\bin\Debug\Player.exe
+C:\Users\gd18jeffery\documents\visual studio 2010\Projects\Player\Player\bin\Debug\Player.pdb
+C:\Users\gd18jeffery\documents\visual studio 2010\Projects\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Player\Player\obj\x86\Debug\Player.exe
+G:\Player\Player\obj\x86\Debug\Player.pdb
+G:\Player\Player\bin\Debug\Player.exe
+G:\Player\Player\bin\Debug\Player.pdb
+G:\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gd18jeffery\Desktop\Player\Player\obj\x86\Debug\Player.exe
+C:\Users\gd18jeffery\Desktop\Player\Player\bin\Debug\Player.exe
+C:\Users\gd18jeffery\Desktop\Player\Player\bin\Debug\Player.pdb
+C:\Users\gd18jeffery\Desktop\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gd18jeffery\Desktop\Player\Player\obj\x86\Debug\Player.pdb
+C:\Users\gd18kauam\Desktop\2 V\Player\Player\obj\x86\Debug\Player.exe
+C:\Users\gd18kauam\Desktop\2 V\Player\Player\obj\x86\Debug\Player.pdb
+C:\Users\gd18kauam\Desktop\2 V\Player\Player\bin\Debug\Player.exe
+C:\Users\gd18kauam\Desktop\2 V\Player\Player\bin\Debug\Player.pdb
+C:\Users\gd18kauam\Desktop\2 V\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gd18jeffery\Desktop\2 V\Player\Player\obj\x86\Debug\Player.exe
+C:\Users\gd18jeffery\Desktop\2 V\Player\Player\obj\x86\Debug\Player.pdb
+C:\Users\gd18jeffery\Desktop\2 V\Player\Player\bin\Debug\Player.exe
+C:\Users\gd18jeffery\Desktop\2 V\Player\Player\bin\Debug\Player.pdb
+C:\Users\gd18jeffery\Desktop\2 V\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gd18jeffery\Desktop\3 V\Player\Player\obj\x86\Debug\Player.exe
+C:\Users\gd18jeffery\Desktop\3 V\Player\Player\obj\x86\Debug\Player.pdb
+C:\Users\gd18jeffery\Desktop\3 V\Player\Player\bin\Debug\Player.exe
+C:\Users\gd18jeffery\Desktop\3 V\Player\Player\bin\Debug\Player.pdb
+C:\Users\gd18jeffery\Desktop\3 V\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\3 V\Player\Player\obj\x86\Debug\Player.exe
+G:\3 V\Player\Player\obj\x86\Debug\Player.pdb
+G:\3 V\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\3 V\Player\Player\bin\Debug\Player.exe
+G:\3 V\Player\Player\bin\Debug\Player.pdb
+C:\Users\gd18jeffery\Desktop\gd18jeff_guarav_kaum_timassignment\Player\Player\obj\x86\Debug\Player.exe
+C:\Users\gd18jeffery\Desktop\gd18jeff_guarav_kaum_timassignment\Player\Player\obj\x86\Debug\Player.pdb
+C:\Users\gd18jeffery\Desktop\gd18jeff_guarav_kaum_timassignment\Player\Player\bin\Debug\Player.exe
+C:\Users\gd18jeffery\Desktop\gd18jeff_guarav_kaum_timassignment\Player\Player\bin\Debug\Player.pdb
+C:\Users\gd18jeffery\Desktop\gd18jeff_guarav_kaum_timassignment\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\obj\x86\Debug\Player.exe
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\obj\x86\Debug\Player.pdb
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\bin\Debug\Player.exe
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\bin\Debug\Player.pdb
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\bin\Debug\Player.exe.manifest
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\bin\Debug\Player.application
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\obj\x86\Debug\Player.exe.manifest
+F:\Kauam\Flashdisk\PC Clean Up Term 2\gd18jeff_guarav_kaum_timassignment\Player\Player\obj\x86\Debug\Player.application
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\obj\x86\Debug\Player.exe
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\obj\x86\Debug\Player.pdb

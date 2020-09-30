@@ -1,0 +1,43 @@
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\bin\Debug\Player.exe.manifest
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\bin\Debug\Player.application
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\bin\Debug\Player.exe
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\bin\Debug\Player.pdb
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\obj\x86\Debug\Player.exe.manifest
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\obj\x86\Debug\Player.application
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\obj\x86\Debug\Player.exe
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Player\Player\obj\x86\Debug\Player.pdb
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Dragon Slayer's Revenge\Dragon Slayer's Revenge\bin\Debug\Dragon Slayer's Revenge.exe.manifest
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Dragon Slayer's Revenge\Dragon Slayer's Revenge\bin\Debug\Dragon Slayer's Revenge.application
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Dragon Slayer's Revenge\Dragon Slayer's Revenge\bin\Debug\Dragon Slayer's Revenge.exe
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Dragon Slayer's Revenge\Dragon Slayer's Revenge\bin\Debug\Dragon Slayer's Revenge.pdb
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Dragon Slayer's Revenge\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.exe.manifest
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Dragon Slayer's Revenge\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.application
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Dragon Slayer's Revenge\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.exe
+C:\Users\Kauam\Desktop\Player Zero\VFS\RevengeoftheDragonSlayer\Dragon Slayer's Revenge\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.pdb
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.exe
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.pdb
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayer's Revenge.exe.manifest
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayer's Revenge.application
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayer's Revenge.exe
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayer's Revenge.pdb
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.exe.manifest
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.application
+C:\Users\Kauam\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.csprojResolveAssemblyReference.cache
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayers Revenge.exe.manifest
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayers Revenge.application
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayers Revenge.exe
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayers Revenge.pdb
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayers Revenge.exe.manifest
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayers Revenge.application
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayers Revenge.exe
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayers Revenge.pdb
+C:\Users\kauam\Documents\Kauam\Backups\Kauam_Note_12.08.15\Desktop\Player Zero\VFS\Term 2 C# Project\Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.csprojResolveAssemblyReference.cache
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayers Revenge.exe
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayers Revenge.pdb
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayers Revenge.exe.manifest
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayers Revenge.application
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayers Revenge.exe
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\bin\Debug\Dragon Slayers Revenge.pdb
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayer's Revenge.csprojResolveAssemblyReference.cache
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayers Revenge.exe.manifest
+C:\Users\kauam\Documents\Kauam\The Dragon Slayer's Revenge\Project\Dragon Slayer's Revenge\obj\x86\Debug\Dragon Slayers Revenge.application
