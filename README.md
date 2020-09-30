@@ -1,6 +1,6 @@
 The Dragon Slayer's Revenge
 
-DSR is a narrative-driven text RPG game made with C# for Windows Console.
+DSR is a narrative-driven text RPG game made in C# for Windows Console.
 
 The game was created in 2010 by four Vancouver Film School's GD18 students as a part of VFS' Game Design Program.
 Being the first C# game made by the creators, the project was meant to be just a test to their new found knowledge,
