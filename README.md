@@ -1,4 +1,4 @@
-The Dragon Slayer's Revenge
+> THE DRAGON SLAYER'S REVENGE
 
 DSR is a narrative-driven text RPG game made in C# for Windows Console.
 
@@ -8,14 +8,8 @@ but ended up being much more then that. The game is rich with old-school RPG ref
 manages to immerse the player, putting him/her in the shoes of the Dragon Slayer, even if just for a short while.
 This game was made in less then one work week and is a testment to how far the love for one's craft can take them.
 
----------------------------- GAME CREATED BY ----------------------------
-
-                              GAURAV SHARMA
-
-                                JEFF SHAW
-
-                          KAUAM TRIPOLONE SILVA
-
-                                TIM WIRCH
- 
--------------------------------------------------------------------------
+> GAME CREATED BY:
+- GAURAV SHARMA
+- JEFF SHAW
+- KAUAM TRIPOLONE SILVA
+- TIM WIRCH
